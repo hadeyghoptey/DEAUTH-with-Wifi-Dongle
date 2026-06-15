@@ -114,7 +114,8 @@ Using this method, a default 8-digit numeric password of a TP-Link router was su
 ---
 
 > 🧠 **Think Before You Hack** Always act responsibly and ethically when using cybersecurity tools. 🛡️
-    
-## NOTE:
-The images have been provided for better guidance.
+
+## 📄 License
+
+[MIT](LICENSE) — Educational use only. See the [LICENSE](LICENSE) file for details.
 
