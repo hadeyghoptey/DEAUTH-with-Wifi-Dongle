@@ -111,11 +111,7 @@ sudo service NetworkManager restart
 
 Using this method, a default 8-digit numeric password of a TP-Link router was successfully cracked. 🔓 This demonstrates the risk of weak/default WiFi passwords.
 
----
-
-> 🧠 **Think Before You Hack** Always act responsibly and ethically when using cybersecurity tools. 🛡️
-
-## 📄 License
+---## 📄 License
 
 [MIT](LICENSE) — Educational use only. See the [LICENSE](LICENSE) file for details.
 
