@@ -2,6 +2,8 @@
 
 > ⚠️ **Disclaimer:** This guide is strictly for educational purposes and ethical hacking within authorized environments. Do **not** attempt on networks without explicit permission.
 
+Many TP-Link routers ship with a default 8-digit numeric WiFi password (e.g., `12345678`) printed on the back label. This predictable pattern makes them a prime target for brute-force attacks — the exact scenario demonstrated here.
+
 ## 🧰 Requirements
 
 - 🐧 Kali Linux
